@@ -1,0 +1,7 @@
+.env
+myenv/
+__pycache__/
+*.pkl
+raw_data_backup.csv
+A Hybrid Machine Learning & GenAI System for.pptx
+DSC550_Customer_Analytics_Final_Report.docx
